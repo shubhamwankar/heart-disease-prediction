@@ -14,6 +14,7 @@ It contains the features:
 * **prevalentHyp** : Do you have prevalent hypertension? (Yes / No)
 * **diabetes** : Do you have diabetes? (Yes / No)
 * **totChol** : What is your total cholestrol level?
+* **BMI** : What is your current Body Mass Index (BMI)?
 * **sysBP** : What is your systolic blood pressure?
 * **heartRate** : What is your current heart rate?
 * **glucose** : What is your current glucose level?
