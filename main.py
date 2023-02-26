@@ -19,6 +19,7 @@ To begin input the following variables:
 * **diabetes** : Do you have diabetes? (Yes / No)
 * **totChol** : What is your total cholestrol level?
 * **sysBP** : What is your systolic blood pressure?
+* **BMI** : What is your current Body Mass Index (BMI)?
 * **heartRate** : What is your current heart rate?
 * **glucose** : What is your current glucose level?
 
